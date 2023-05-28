@@ -93,7 +93,7 @@ body {
   background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-sm-bg.png');
   background-size: cover;
   height: 70vh;
-  width: 60vw;
+  width: 75vw;
   display: flex;
   flex-direction: column;
   justify-content: center;
